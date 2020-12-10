@@ -5,4 +5,3 @@ Andre
 Miguel Sandoval
 Alejandro Viveros
 Mau
-Bryan
